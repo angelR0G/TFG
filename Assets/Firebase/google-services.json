@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660319327002",
+    "project_id": "vr-alisoft-firebase",
+    "storage_bucket": "vr-alisoft-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660319327002:android:1a182bb586bef150dd12a3",
+        "android_client_info": {
+          "package_name": "com.Alisoft.VR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660319327002-s61u0d2bmt3jp0c1s8s4esvfbk1v3t1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApBcTjDdtRkRgtdPwkXElKX-NN8RjMHyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660319327002-s61u0d2bmt3jp0c1s8s4esvfbk1v3t1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
